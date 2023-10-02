@@ -1,5 +1,4 @@
-import random
-
+# Part 1
 students = [
     'Adam',
     'Bob',
@@ -9,5 +8,5 @@ students = [
     'Frank'
 ]
 
-random.shuffle(students)
-print(students[0])
+for student in students:
+    print(student)

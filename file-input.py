@@ -1,7 +1,8 @@
+# Part 4
 import os
 
 # Get the path of the file
-path = os.path.abspath("peudo-code.txt")
+path = os.path.abspath("pseudo-code.txt")
 
 # Open the file
 file = open(path, "r")
