@@ -1,0 +1,9 @@
+List of students 
+
+For every student
+    if student's pronouns is He/Him
+        print Mr and First Name
+    if pronouns are She/Her
+        print Ms and First Name
+    otherwise 
+        print Mx and First Name
